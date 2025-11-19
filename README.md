@@ -7,14 +7,14 @@
     <title>NEABI</title>
 
     <style>
-        /* Reset */
+        
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        /* MENU */
+     
         nav {
             background-color: #333;
             padding: 15px;
